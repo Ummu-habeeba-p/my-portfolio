@@ -119,8 +119,8 @@ export default function Hero() {
               variant="outlined"
               size="large"
               startIcon={<DownloadIcon />}
-              href="/Ummu_Habeeba_Fullstack_Developer.pdf"
-              download="Ummu_Habeeba_Fullstack_Developer.pdf"
+              href="/Ummu_Habeeba_CV.pdf"
+              download="Ummu_Habeeba_CV.pdf"
               sx={{
                 textTransform: "none",
                 borderRadius: 2,
