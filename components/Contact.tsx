@@ -10,7 +10,7 @@ import ArrowOutwardIcon from "@mui/icons-material/ArrowOutward";
 export default function Contact() {
   return (
     <Box id="contact" component="section" sx={{ py: { xs: 8, md: 12 } }}>
-      <Container maxWidth="md">
+      <Container maxWidth="lg">
         <Box
           sx={{
             textAlign: "center",
